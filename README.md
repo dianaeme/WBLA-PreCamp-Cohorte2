@@ -1,4 +1,4 @@
-### Repositorio de pr√°ctica del WBDS LA Camp
+### Repositorio de pr·ctica del WBDS LA Camp
 
 **Autora**: Diana Vanessa Medina Bastidas
 
